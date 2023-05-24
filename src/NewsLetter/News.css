@@ -1,0 +1,3 @@
+/* input[type="text"]:focus ~ .input-text{
+    @apply text-main transform translate-x-2 -translate-y-6 bg-bg px-2
+} */
